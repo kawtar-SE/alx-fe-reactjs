@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "summary": "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
+    "image": "https://www.bing.com/images/search?view=detailv2&iss=sbi&FORM=recidp&sbisrc=ImgDropper&q=Spaghetti%20%C3%A0%20la%20Carbonara&imgurl=https://bing.com/th?id=OSK.841c6add5d4967c6001ac106a7e11107&idpbck=1&sim=4&pageurl=18875e1f66675d624f01ac4201a12561&filters=ForceHighConfRecipe:%22true%22&idpp=recipe",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 eggs",
+      "50g parmesan cheese",
+      "Salt & black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti in salted boiling water.",
+      "Fry pancetta until crispy.",
+      "Mix eggs with grated parmesan.",
+      "Combine spaghetti with pancetta.",
+      "Serve immediately with black pepper."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Chicken Tikka Masala",
+    "summary": "Chunks of grilled chicken (tikka) cooked in a smooth buttery & creamy tomato based gravy.",
+    "image": "https://images.unsplash.com/photo-1604908177527-1ff2d93673e1",
+    "ingredients": [
+      "500g chicken breast, cubed",
+      "150g yogurt",
+      "2 tsp garam masala",
+      "1 onion, chopped",
+      "400g canned tomatoes",
+      "100ml cream",
+      "2 cloves garlic, minced",
+      "1 inch ginger, grated",
+      "Salt & pepper"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt, garam masala, garlic, and ginger for at least 1 hour.",
+      "Grill or pan-fry the chicken until cooked through.",
+      "Sauté onions until golden, add tomatoes, and simmer for 10 minutes.",
+      "Add cooked chicken and cream, simmer for another 10 minutes.",
+      "Season with salt and pepper to taste.",
+      "Serve hot with rice or naan."
+    ]
+  }
+]
+
